@@ -1,0 +1,10 @@
+Adding action to controller
+
+Next step is to add [[yii\authclient\AuthAction]] to
+ a web controller and provide a successCallback implementation, 
+which is suitable for your needs. 
+Typically final controller code may look like following:
+
+下一步是将[[yii \ authclient \ AuthAction]]添加到Web控制器，
+并提供一个适合您需求的successCallback实现。
+ 通常最终控制器代码可能如下所示：
